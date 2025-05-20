@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vpbasile aka Schmincenzo
-- 👀 I’m interested in Web Dev, UX, and Microcontrollers
-- 🌱 I’m currently learning how to work with SVGs.  I'm also working on a trivia game.
-- 💞️ I’m looking to collaborate on React Apps of any kind, especially database projects
+- 👀 I’m interested in SVG Art, Web Dev, UX, and Microcontrollers
+- 🌱 I’m currently learning Python and Ollama.  I'm also working on a trivia game.
+- 💞️ I’m looking to collaborate on database projects
 
 <!---
 vpbasile/vpbasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
